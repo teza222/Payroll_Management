@@ -1,5 +1,0 @@
-Paystub for: Adrian Williams
-Department: Rep02
-Hours Worked: 40.2
-Allowance: $8000.0
-Total Salary: $68300.0

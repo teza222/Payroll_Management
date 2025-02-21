@@ -1,5 +1,0 @@
-Paystub for: Andre Mcmillon
-Department: Rep04
-Hours Worked: 17.5
-Allowance: $800.0
-Total Salary: $27050.0

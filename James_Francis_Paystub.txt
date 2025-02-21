@@ -1,5 +1,0 @@
-Paystub for: James Francis
-Department: Mng01
-Hours Worked: 49.2
-Bonus: $45000.0
-Total Salary: $168000.0
