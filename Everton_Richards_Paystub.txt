@@ -1,0 +1,5 @@
+Paystub for: Everton Richards
+Department: Rep01
+Hours Worked: 36.2
+Allowance: $4000.0
+Total Salary: $58300.00000000001

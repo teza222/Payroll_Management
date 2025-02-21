@@ -1,0 +1,5 @@
+Paystub for: Asheka Quallo
+Department: Rep03
+Hours Worked: 48.0
+Allowance: $15000.0
+Total Salary: $87000.0

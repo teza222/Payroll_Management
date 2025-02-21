@@ -1,0 +1,5 @@
+Paystub for: Kamar Gaynor
+Department: Rep05
+Hours Worked: 40.1
+Allowance: $8500.0
+Total Salary: $68650.0

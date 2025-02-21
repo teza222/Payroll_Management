@@ -1,0 +1,5 @@
+Paystub for: Junior Brown
+Department: Mng02
+Hours Worked: 80.2
+Bonus: $75000.0
+Total Salary: $275500.0
